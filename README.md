@@ -10,8 +10,8 @@
 - 1초길이의 음성파일 2404개 수집(익은 수박 1202개, 덜익은 수박 1202개)
 - melspectrogram을 특징으로 잡아 학습 진행
 - 학습결과:
-- ![image](https://github.com/wooodio/rippen_watermellon_classification/assets/127821186/086d8cc0-c08f-4d05-b648-72c50736867c)
-- ![image](https://github.com/wooodio/rippen_watermellon_classification/assets/127821186/cbf5169e-9e67-430f-bb08-f433aa92ae5f)
+<img src='https://github.com/wooodio/rippen_watermellon_classification/assets/127821186/086d8cc0-c08f-4d05-b648-72c50736867c)'>
+<img src='https://github.com/wooodio/rippen_watermellon_classification/assets/127821186/cbf5169e-9e67-430f-bb08-f433aa92ae5f)'>
 <img src='https://github.com/vocaltrainer/rippen_watermellon_classification/assets/127821186/31e720ae-4a75-4efd-8cec-3c109c7859b9'>
 
 # 한계:
